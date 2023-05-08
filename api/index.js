@@ -32,7 +32,9 @@ app.post("/transactions", (req, res) => {
     // console.log("Me esta llegando añgooo");
     // console.log(req.body);
 
+    // Obtengo transaccion
     let transaction = req.body;
+    // Guardo en Array
     transactionArr.push(transaction);
     res.send(JSON.stringify("Guardada con exito"));
     console.log(transactionArr);

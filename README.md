@@ -23,5 +23,6 @@ Este archivo define la lógica del frontend y se encarga de manejar la interacci
 En resumen
 Este proyecto es una aplicación web sencilla que permite agregar y listar transacciones utilizando una API REST en el backend y un formulario en el frontend. El backend está escrito en Node.js utilizando Express y el frontend en HTML, CSS y JavaScript.
 
-Copy
+Para iniciar entrar en carpeta api y ejecutar node index.js
+Iniciar index.html para enviar datosal array
 
